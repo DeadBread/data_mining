@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="MEDIUM">
+<totalResultsCount>377</totalResultsCount>
+<geoname>
+<toponymName>Cleveland</toponymName>
+<name>Cleveland</name>
+<lat>41.4995</lat>
+<lng>-81.69541</lng>
+<geonameId>5150529</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPLA2</fcode>
+</geoname>
+<geoname>
+<toponymName>Cleveland-Hopkins International Airport</toponymName>
+<name>Cleveland-Hopkins International Airport</name>
+<lat>41.41083</lat>
+<lng>-81.84944</lng>
+<geonameId>5150584</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>S</fcl>
+<fcode>AIRP</fcode>
+</geoname>
+<geoname>
+<toponymName>Cleveland Heights</toponymName>
+<name>Cleveland Heights</name>
+<lat>41.52005</lat>
+<lng>-81.55624</lng>
+<geonameId>4833320</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+</geoname>
+<geoname>
+<toponymName>East Cleveland</toponymName>
+<name>East Cleveland</name>
+<lat>41.53311</lat>
+<lng>-81.57901</lng>
+<geonameId>5152599</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+</geoname>
+<geoname>
+<toponymName>Cleveland Park</toponymName>
+<name>Cleveland Park</name>
+<lat>39.74395</lat>
+<lng>-84.14827</lng>
+<geonameId>4508943</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>L</fcl>
+<fcode>PRK</fcode>
+</geoname>
+<geoname>
+<toponymName>Cleveland Museum of Art</toponymName>
+<name>Cleveland Museum of Art</name>
+<lat>41.50922</lat>
+<lng>-81.61179</lng>
+<geonameId>5150566</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>S</fcl>
+<fcode>MUS</fcode>
+</geoname>
+<geoname>
+<toponymName>Cleveland Aquarium (historical)</toponymName>
+<name>Cleveland Aquarium (historical)</name>
+<lat>41.53811</lat>
+<lng>-81.63652</lng>
+<geonameId>5150531</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>L</fcl>
+<fcode>PRK</fcode>
+</geoname>
+<geoname>
+<toponymName>Cleveland Heights Swimming Pool</toponymName>
+<name>Cleveland Heights Swimming Pool</name>
+<lat>41.512</lat>
+<lng>-81.56929</lng>
+<geonameId>5150554</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>L</fcl>
+<fcode>PRK</fcode>
+</geoname>
+<geoname>
+<toponymName>City of Cleveland Heights</toponymName>
+<name>City of Cleveland Heights</name>
+<lat>41.51122</lat>
+<lng>-81.56356</lng>
+<geonameId>5150555</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>A</fcl>
+<fcode>ADMD</fcode>
+</geoname>
+<geoname>
+<toponymName>Cleveland Lakefront State Park</toponymName>
+<name>Cleveland Lakefront State Park</name>
+<lat>41.49727</lat>
+<lng>-81.75124</lng>
+<geonameId>5150559</geonameId>
+<countryCode>US</countryCode>
+<countryName>United States</countryName>
+<fcl>L</fcl>
+<fcode>PRK</fcode>
+</geoname>
+</geonames>
